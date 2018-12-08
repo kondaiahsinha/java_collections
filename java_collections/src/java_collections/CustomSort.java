@@ -32,11 +32,13 @@ public class CustomSort {
 		emp.add(e4);
 		emp.add(e5);
 		System.out.println(emp);
+		System.out.println(emp);
 		Collections.sort(emp,new myEmpComparator());
 		System.out.println(emp);
 		//TreeSet ts=new TreeSet(new myEmpComparator());
 		//ts.addAll(emp);
 		//System.out.println(ts);
+		//somthing
 	}
 }
 class employee{
