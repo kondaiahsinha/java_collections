@@ -2,7 +2,7 @@ package BasicPrograms;
 
 public class fib_recursion {
 	public static void main(String []args) {
-		int count=9;
+		int count=10;
 		fib f=new fib();
 		//f.fiba(count);
 		System.out.println(f.fiba(count));

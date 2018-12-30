@@ -8,11 +8,11 @@ public class fibanacci {
 		int fib=0,fib1=1;
 		
 		for(int i=1;i<=val;i++) {
-			System.out.print(fib+ " +");
+			//System.out.print(ffib+ " +");
 			int ffib=fib+fib1;
 			fib=fib1;
 			fib1=ffib;
-			
+			System.out.print(fib+ " +");
 		}
 	
 	}
