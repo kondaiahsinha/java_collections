@@ -9,7 +9,6 @@ public class factorial {
 		System.out.println(fc1.fcr(6));
 		//fc1.fcr(5);
 		//fc1.fc();
-
 	}
 
 }
